@@ -1,6 +1,7 @@
 # web-main
 Diseño 
-![1](https://github.com/tysonJb/web-main/assets/125166850/1f5a8686-4f05-4f32-9f2b-655651fac528)
+![1](https://github.com/tysonJb/web-main/assets/125166850/cc6938ce-7c24-419f-b788-79dd741074c8)
+
 -------------------------------
 ![2](https://github.com/tysonJb/web-main/assets/125166850/93347ac8-38f1-48b0-b6b6-d6cd9a43b95d)
 -------------------------------
